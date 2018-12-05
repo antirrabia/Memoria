@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Memoria</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="easy_mode_textView">Welcome to the Easy mode!</string>
+    <string name="normal_mode_textView">Welcome to the Normal mode!</string>
+    <string name="hard_mode_textView">Welcome to the Hard mode!</string>
+
+    <string name="easy_tab_label">== EASY ==</string>
+    <string name="normal_tab_label">== NORMAL ==</string>
+    <string name="hard_tab_label">== HARD ==</string>
+
+</resources>
